@@ -1,0 +1,4 @@
+conda env list - List all conda environments (Python environments)
+conda activate python_env - Activate a  conda environment.
+conda deactivate - Deactivate conda environment.
+conda create -n python_env python=3.9 - Create a conda environment.
